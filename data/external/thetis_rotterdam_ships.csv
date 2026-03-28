@@ -1,0 +1,11 @@
+ship_type,ships_reporting,total_co2_million_t,avg_co2_per_ship_kt,avg_efficiency_gCO2_dwt_nm,co2_trend_vs_2022_pct,source,corridor_relevance
+Container Ship,5142,178.4,34.7,7.2,3.1,THETIS-MRV 2023,"Routes 1 (Shanghai-LA, 55%) + 2 (Rotterdam-SGP, 45%)"
+Bulk Carrier,7891,142.1,18.0,5.9,1.4,THETIS-MRV 2023,"Route 3 (Australia-EA, 50%) + Route 1 (25%)"
+Oil Tanker,4203,89.6,21.3,4.8,-0.8,THETIS-MRV 2023,Routes 2 + 3
+Chemical Tanker,2710,28.3,10.4,8.1,0.6,THETIS-MRV 2023,"Route 2 (Rotterdam-SGP, 10%)"
+LNG Carrier,892,18.9,21.2,3.1,5.2,THETIS-MRV 2023,"Route 3 (Australia-EA, 25%)"
+Ro-Ro / Vehicle,1456,22.4,15.4,5.6,2.0,THETIS-MRV 2023,"Route 1 (Shanghai-LA, 15%)"
+General Cargo,3891,21.7,5.6,9.4,-1.2,THETIS-MRV 2023,Minor across all routes
+Passenger / Cruise,1204,17.3,14.4,34.2,-3.5,THETIS-MRV 2023,Not corridor-relevant
+Ferry (Ro-Pax),1038,8.9,8.6,52.1,-1.1,THETIS-MRV 2023,Not corridor-relevant
+Refrigerated Cargo,347,4.1,11.8,10.7,0.3,THETIS-MRV 2023,Minor

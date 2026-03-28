@@ -1,0 +1,16 @@
+vessel_type,size_category,dwt_reference,cii_reference_2023,cii_target_2026,cii_target_2030,cii_target_2050,unit,grading_a_threshold,grading_d_threshold,grading_e_threshold,annual_reduction_pct,source,source_url
+Bulk Carrier,Small (<10k DWT),5000,14.2,12.96,11.47,2.84,g CO2 / (dwt · nm),11.64,15.34,16.76,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+Bulk Carrier,Handysize (10-35k),25000,8.5,7.76,6.87,1.7,g CO2 / (dwt · nm),6.97,9.18,10.03,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+Bulk Carrier,Supramax (35-60k),50000,6.9,6.3,5.58,1.38,g CO2 / (dwt · nm),5.66,7.45,8.14,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+Bulk Carrier,Panamax (60-80k),70000,5.9,5.38,4.77,1.18,g CO2 / (dwt · nm),4.84,6.37,6.96,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+Bulk Carrier,Capesize (80k+),180000,4.2,3.83,3.39,0.84,g CO2 / (dwt · nm),3.44,4.54,4.96,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+Container Ship,Feeder (<3k TEU),20000,9.3,8.49,7.51,1.86,g CO2 / (dwt · nm),7.63,10.04,10.97,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+Container Ship,Panamax (3-8k TEU),55000,7.8,7.12,6.3,1.56,g CO2 / (dwt · nm),6.4,8.42,9.2,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+Container Ship,Post-Panamax (8k+),130000,6.1,5.57,4.93,1.22,g CO2 / (dwt · nm),5.0,6.59,7.2,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+Oil Tanker,Aframax (<120k DWT),80000,5.7,5.2,4.61,1.14,g CO2 / (dwt · nm),4.67,6.16,6.73,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+Oil Tanker,Suezmax (120-200k),150000,5.1,4.65,4.12,1.02,g CO2 / (dwt · nm),4.18,5.51,6.02,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+Oil Tanker,VLCC (200k+),280000,4.0,3.65,3.23,0.8,g CO2 / (dwt · nm),3.28,4.32,4.72,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+Chemical Tanker,Medium (20-80k DWT),40000,9.4,8.58,7.6,1.88,g CO2 / (dwt · nm),7.71,10.15,11.09,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+LNG Carrier,Large (>100k m3),80000,7.5,6.85,6.06,1.5,g CO2 / (dwt · nm),6.15,8.1,8.85,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+General Cargo,Small (<5k DWT),3000,15.8,14.42,12.77,3.16,g CO2 / (dwt · nm),12.96,17.06,18.64,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx
+General Cargo,Medium (5-15k DWT),10000,12.1,11.04,9.78,2.42,g CO2 / (dwt · nm),9.92,13.07,14.28,3.0,"IMO MEPC.338(76) + MEPC.339(76), July 2023",https://www.imo.org/en/OurWork/Environment/Pages/CII-rating.aspx

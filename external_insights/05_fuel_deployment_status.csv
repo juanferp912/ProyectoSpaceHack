@@ -1,0 +1,10 @@
+spacehack_route,fuel,trl_level,commercial_status,est_cost_usd_per_tonne,covers_imo_2030,volume_deployed_2023_tonnes,corridor_g2z_stage,distance_nm,annual_voyages,source
+Route 1 (Shanghai → Los Angeles),Green Methanol,8,Commercial (early),800,True,47000,Early Realization,5400,2800,Getting to Zero Coalition Annual Progress Report 2025
+Route 1 (Shanghai → Los Angeles),LNG dual-fuel,9,Commercial scale,550,True,0,Early Realization,5400,2800,Getting to Zero Coalition Annual Progress Report 2025
+Route 1 (Shanghai → Los Angeles),Shore Power,9,Operational,0,True,0,Early Realization,5400,2800,Getting to Zero Coalition Annual Progress Report 2025
+Route 2 (Rotterdam → Singapore),Bio/e-Methanol,7,Early commercial,900,True,0,Advanced Feasibility,7000,3400,Getting to Zero Coalition Annual Progress Report 2025
+Route 2 (Rotterdam → Singapore),Green Ammonia,5,Pilot/demo,1100,False,0,Advanced Feasibility,7000,3400,Getting to Zero Coalition Annual Progress Report 2025
+Route 2 (Rotterdam → Singapore),LNG,N/A,Unknown,N/A,False,0,Advanced Feasibility,7000,3400,Getting to Zero Coalition Annual Progress Report 2025
+Route 2 (Rotterdam → Singapore),Methane,N/A,Unknown,N/A,False,0,Advanced Feasibility,7000,3400,Getting to Zero Coalition Annual Progress Report 2025
+Route 3 (Australia → East Asia / CHN),Green Ammonia,5,Pilot/demo,1100,False,0,Feasibility,4200,5600,Getting to Zero Coalition Annual Progress Report 2025 + ETC Feasibility Study May 2023
+Route 3 (Australia → East Asia / CHN),Green Methanol,8,Commercial (early),800,True,0,Feasibility,4200,5600,Getting to Zero Coalition Annual Progress Report 2025 + ETC Feasibility Study May 2023

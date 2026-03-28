@@ -1,0 +1,22 @@
+corridor,countries,fuel_scenario,reduction_pct,annual_baseline_t,remaining_co2_t,co2_saved_t,co2_saved_Mt,annual_base_Gt,co2_per_nm_kg,data_year,source
+Route 1: Shanghai -> Los Angeles,CHN + USA,HFO Baseline,0.0,1073083016.0,1073083016.0,0.0,0.0,1.073,0.071,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 1: Shanghai -> Los Angeles,CHN + USA,LNG,23.0,1073083016.0,826273922.0,246809094.0,246.81,1.073,0.071,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 1: Shanghai -> Los Angeles,CHN + USA,Wind-Assist,15.0,1073083016.0,912120563.0,160962452.0,160.96,1.073,0.071,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 1: Shanghai -> Los Angeles,CHN + USA,LNG + Wind-Assist,35.0,1073083016.0,697503960.0,375579055.0,375.58,1.073,0.071,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 1: Shanghai -> Los Angeles,CHN + USA,Green Methanol,75.0,1073083016.0,268270754.0,804812262.0,804.81,1.073,0.071,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 1: Shanghai -> Los Angeles,CHN + USA,Green Ammonia,92.0,1073083016.0,85846641.0,987236374.0,987.24,1.073,0.071,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 1: Shanghai -> Los Angeles,CHN + USA,Green Hydrogen,95.0,1073083016.0,53654151.0,1019428865.0,1019.43,1.073,0.071,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 2: Rotterdam -> Singapore,NLD + SGP,HFO Baseline,0.0,421093033.0,421093033.0,0.0,0.0,0.421,0.0177,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 2: Rotterdam -> Singapore,NLD + SGP,LNG,23.0,421093033.0,324241636.0,96851398.0,96.85,0.421,0.0177,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 2: Rotterdam -> Singapore,NLD + SGP,Wind-Assist,15.0,421093033.0,357929078.0,63163955.0,63.16,0.421,0.0177,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 2: Rotterdam -> Singapore,NLD + SGP,LNG + Wind-Assist,35.0,421093033.0,273710472.0,147382562.0,147.38,0.421,0.0177,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 2: Rotterdam -> Singapore,NLD + SGP,Green Methanol,75.0,421093033.0,105273258.0,315819775.0,315.82,0.421,0.0177,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 2: Rotterdam -> Singapore,NLD + SGP,Green Ammonia,92.0,421093033.0,33687443.0,387405591.0,387.41,0.421,0.0177,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 2: Rotterdam -> Singapore,NLD + SGP,Green Hydrogen,95.0,421093033.0,21054652.0,400038382.0,400.04,0.421,0.0177,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 3: Australia -> East Asia,AUS + CHN,HFO Baseline,0.0,776945399.0,776945399.0,0.0,0.0,0.777,0.033,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 3: Australia -> East Asia,AUS + CHN,LNG,23.0,776945399.0,598247957.0,178697442.0,178.7,0.777,0.033,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 3: Australia -> East Asia,AUS + CHN,Wind-Assist,15.0,776945399.0,660403589.0,116541810.0,116.54,0.777,0.033,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 3: Australia -> East Asia,AUS + CHN,LNG + Wind-Assist,35.0,776945399.0,505014509.0,271930890.0,271.93,0.777,0.033,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 3: Australia -> East Asia,AUS + CHN,Green Methanol,75.0,776945399.0,194236350.0,582709049.0,582.71,0.777,0.033,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 3: Australia -> East Asia,AUS + CHN,Green Ammonia,92.0,776945399.0,62155632.0,714789767.0,714.79,0.777,0.033,2024,OECD.csv + IMO GHG Study 2020 reduction factors
+Route 3: Australia -> East Asia,AUS + CHN,Green Hydrogen,95.0,776945399.0,38847270.0,738098129.0,738.1,0.777,0.033,2024,OECD.csv + IMO GHG Study 2020 reduction factors

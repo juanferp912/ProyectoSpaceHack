@@ -1,0 +1,10 @@
+year,co2_annual_corridor,corridor,countries,co2_prev,yoy_pct,co2_annual_Gt
+2022,968572386.7444398,Route 1: Shanghai -> Los Angeles,CHN + USA,,,0.9686
+2023,979984954.3757142,Route 1: Shanghai -> Los Angeles,CHN + USA,968572386.7444398,1.18,0.98
+2024,1073083015.6331848,Route 1: Shanghai -> Los Angeles,CHN + USA,979984954.3757142,9.5,1.0731
+2022,398760749.0482113,Route 2: Rotterdam -> Singapore,NLD + SGP,,,0.3988
+2023,392952676.54465544,Route 2: Rotterdam -> Singapore,NLD + SGP,398760749.0482113,-1.46,0.393
+2024,421093033.4918624,Route 2: Rotterdam -> Singapore,NLD + SGP,392952676.54465544,7.16,0.4211
+2022,713480581.5891281,Route 3: Australia -> East Asia,AUS + CHN,,,0.7135
+2023,719514336.7882373,Route 3: Australia -> East Asia,AUS + CHN,713480581.5891281,0.85,0.7195
+2024,776945399.0514411,Route 3: Australia -> East Asia,AUS + CHN,719514336.7882373,7.98,0.7769
